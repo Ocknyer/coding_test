@@ -1,10 +1,10 @@
 # [level 0] 홀짝에 따라 다른 값 반환하기 - 181935 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181935?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181935) 
 
 ### 성능 요약
 
-메모리: 9.24 MB, 시간: 0.02 ms
+메모리: 9.24 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 18일 14:57:52
+2025년 12월 20일 00:35:50
 
 ### 문제 설명
 
