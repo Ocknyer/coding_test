@@ -13,4 +13,4 @@ def solution(code):
             if i % 2 == 1 and code[i] != '1':
                 answer += code[i]
         
-    return 'EMPTY' if answer == '' else answer
+    return answer or 'EMPTY'
