@@ -5,12 +5,8 @@ def solution(code):
     for i in range(len(code)):
         if code[i] == '1':
             mode = int(not mode)
-            
-        if mode == 0:
-            if i % 2 == 0 and code[i] != '1':
-                answer += code[i]
         else:
-            if i % 2 == 1 and code[i] != '1':
+            if i % 2 == mode:
                 answer += code[i]
         
     return answer or 'EMPTY'
